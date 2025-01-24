@@ -62,11 +62,12 @@ Botzilla is a Telegram chatbot powered by [TinyLlama](https://huggingface.co/Tin
 ### BotFather Commands
 
 Don't forget to change the command in BotFather to the following:
-    ```
-    start - Start the bot and view the welcome message
-    trivia -  Enjoy random trivia or facts
-    help - Show all available commands
-    ```
+
+```
+start - Start the bot and view the welcome message
+trivia -  Enjoy random trivia or facts
+help - Show all available commands
+```
 
 ## License 📝
 
