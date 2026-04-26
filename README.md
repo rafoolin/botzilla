@@ -3,7 +3,7 @@
 # Botzilla 🦖 - Your Friendly Telegram Chatbot AI Assistant
 
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-%E2%89%A43.11-blue.svg)](https://www.python.org/)
 
 Botzilla is a Telegram chatbot powered by [TinyLlama](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) and designed to help you with answers, facts, and fun interactions. I've created a bot for it on Telegram named [@the_botzilla_bot](https://t.me/the_botzilla_bot)!
 
@@ -23,6 +23,8 @@ Botzilla is a Telegram chatbot powered by [TinyLlama](https://huggingface.co/Tin
 
 ### Installation 🛠️
 
+> Install Python 3.11 or earlier.
+
 1. Clone the repository:
     ```sh
     git clone https://github.com/rafoolin/botzilla.git
@@ -33,7 +35,7 @@ Botzilla is a Telegram chatbot powered by [TinyLlama](https://huggingface.co/Tin
     ```
 3. Create a virtual environment:
     ```sh
-    python3 -m venv botzilla_env
+    py -3 -m venv botzilla_env
     ```
 4. Activate the virtual environment:
     - On Windows:
